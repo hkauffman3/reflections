@@ -1,0 +1,3 @@
+-git becomes aware that the directory is a repository.  You need it so that git knows where the repository is
+
+-q8 This is honestly one of the concepts that I do not yet understand.. git can tell the difference, if I want to constantly not include a file or a type or set of files I can put them in git ignore..  And typing this I just realized, it allows you to manually decide on your commit, which has been a theme here.
