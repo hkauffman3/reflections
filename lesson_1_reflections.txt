@@ -1,0 +1,14 @@
+-did not have to parse the whole file
+
+-you can see how the code base was built to the current point
+-you can collaborate and track who changes what
+
+-git pros: the incremental saves are represetent logical changes
+-git cons: user error results in lost work
+
+-different purposes for the different systems.. code base vs document base
+
+-it is easy to go back, changes are not permanent
+
+-I want to use it to start my blockchain insurance project
+
