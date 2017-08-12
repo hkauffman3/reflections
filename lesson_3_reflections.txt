@@ -13,3 +13,4 @@
 -the changes from both branches are combined.
 -the commits are coming together to form one commit
 
+- auto saves a lot of work with code that does not have conflics
